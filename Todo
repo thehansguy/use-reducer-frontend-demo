@@ -1,0 +1,21 @@
+Todo App's Todo
+
+state description:  store and manage input data state 
+                    store and manage todo list state
+
+
+import useState for input data state
+import useReducer for todo list state
+
+setup ui for input state
+setup ui for todo list state
+
+setup useState for input state
+setup useReducer for todo list state
+
+describe reducer action functions for
+adding new todos
+marking and unmarking todos as complete
+deleting existing todos
+
+                   
